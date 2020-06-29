@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Spacing for Margins and Paddings-->
+    <dimen name="spacing_4">4dp</dimen>
+    <dimen name="spacing_8">8dp</dimen>
+    <dimen name="spacing_16">16dp</dimen>
+    <dimen name="spacing_24">24dp</dimen>
+    <dimen name="spacing_32">32dp</dimen>
+    <dimen name="spacing_40">40dp</dimen>
+    <dimen name="spacing_48">48dp</dimen>
+    <dimen name="spacing_56">56dp</dimen>
+    <!-- Text size-->
+    <dimen name="textsize_8">8sp</dimen>
+    <dimen name="textsize_10">10sp</dimen>
+    <dimen name="textsize_12">12sp</dimen>
+    <dimen name="textsize_14">14sp</dimen>
+    <dimen name="textsize_16">16sp</dimen>
+    <dimen name="textsize_20">20sp</dimen>
+    <dimen name="textsize_24">24sp</dimen>
+    <dimen name="textsize_28">28sp</dimen>
+    <dimen name="textsize_36">36sp</dimen>
+    <dimen name="textsize_44">44sp</dimen>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PhotoSearch</string>
+    <string name="error_no_network_available">No Network Available</string>
+    <string name="error_common_title">Photo Search Error</string>
+    <string name="error_common_message">Please try again.</string>
+    <string name="hint_photo_search">Please enter text to search</string>
+    <string name="error_no_photos_found">No Photos Found \nPlease try searching with different keyword</string>
+    <string name="error_empty_search_text">Please enter text to search</string>
+    <string name="no_network_connectivity">No Network Available</string>
+</resources>
